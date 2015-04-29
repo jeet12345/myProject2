@@ -1,7 +1,19 @@
+<<<<<<< HEAD
 decreijfcpr
+=======
+dhefemhThis is git repository.
+>>>>>>> branch
 
 get status
 
 add files
 
+<<<<<<< HEAD
 i made changes in branch branch
+=======
+
+dmejfdre
+dcrejfcnr
+
+dceidec
+>>>>>>> branch
